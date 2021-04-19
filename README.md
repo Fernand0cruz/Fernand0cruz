@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m Luiz Fernando
-<img src="https://github.com/Fernand0cruz/Fernand0cruz/blob/main/1.jpeg" style="width:5px;"/>
+<img src="https://github.com/Fernand0cruz/Fernand0cruz/blob/main/1.jpeg" width="350"/>
 ## - 📫 Qualquer hora edito isso aqui!
 
 <!---
