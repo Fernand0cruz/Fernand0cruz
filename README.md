@@ -1,12 +1,12 @@
 
-## LUIZ FERNANDO 🦇:
+## LUIZ FERNANDO 🦇
 <p align="center">
   <a href="#">
     <img align="center" width="350" src="https://github.com/Fernand0cruz/Fernand0cruz/blob/main/1.jpeg" />
   </a>
 </p>
 </br>
-## 
+!#
 </br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
