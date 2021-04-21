@@ -1,4 +1,4 @@
-<div style="width:500;">
+<div style="width:500;background-color:red;">
 <h1>Hi, I’m Luiz Fernando</h1>
 <img src="https://github.com/Fernand0cruz/Fernand0cruz/blob/main/1.jpeg" width="250"/>
 </div>
