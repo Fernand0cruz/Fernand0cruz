@@ -15,7 +15,8 @@
       src="https://github-readme-stats.vercel.app/api?username=Fernand0cruz&show_icons=true&theme=default"
     />
   </a>
-  <br>
+  </br>
+  </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
