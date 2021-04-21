@@ -11,9 +11,7 @@
 
 
 <p align="center">
-  
   <a href="#">
-    <h1>Hi, I’m Luiz Fernando</h1>
     <img align="center" width="300" src="https://github.com/Fernand0cruz/Fernand0cruz/blob/main/1.jpeg" />
   </a>
 </p>
@@ -23,7 +21,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=te&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,15 +32,6 @@
     />
   </a>
 </p>
-
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-### Abstract
-
-- 👨‍💻 Engenheiro de Software Jr na **Itaú Unibanco**.
-- 🌱 Estudante de Ciência da computação, 5° semestre.
-- 💙 Interesse: Java, Spring Boot, html, css, javaScript, React, c# , .net e ASP.net.
-- :video_game: Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe
 
 
 ## Skills :nerd_face:
