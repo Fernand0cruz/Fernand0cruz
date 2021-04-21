@@ -2,7 +2,7 @@
 ## LUIZ FERNANDO 🦇
 <p align="center">
   <a href="#">
-    <img align="center" width="350" src="https://github.com/Fernand0cruz/Fernand0cruz/blob/main/1.jpeg" />
+    <img align="center" width="300" src="https://github.com/Fernand0cruz/Fernand0cruz/blob/main/1.jpeg" />
   </a>
 </p>
 </br>
