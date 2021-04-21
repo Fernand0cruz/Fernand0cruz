@@ -6,10 +6,8 @@
   </a>
 </p>
 </br>
-</br>
 
-
-## ESTATISTICAS
+## ESTATÍSTICAS 🥇
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -28,7 +26,6 @@
     />
   </a>
 </p>
-
 
 ## Skills :nerd_face:
 <p align="center">
