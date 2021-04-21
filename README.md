@@ -2,7 +2,7 @@
 ## LUIZ FERNANDO :brazil:
 <p align="center">
   <a href="#">
-    <img align="center" width="300" src="https://github.com/Fernand0cruz/Fernand0cruz/blob/main/1.jpeg" />
+    <img align="center" width="350" src="https://github.com/Fernand0cruz/Fernand0cruz/blob/main/1.jpeg" />
   </a>
 </p>
 </br>
@@ -15,6 +15,7 @@
       src="https://github-readme-stats.vercel.app/api?username=Fernand0cruz&show_icons=true&theme=default"
     />
   </a>
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
