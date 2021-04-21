@@ -1,15 +1,4 @@
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fernand0cruz&show_icons=true&theme=default" width="300" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernand0cruz&layout=compact" width="300" />
-    
-
-
-
-
-
-
 <p align="center">
   <a href="#">
     <img align="center" width="300" src="https://github.com/Fernand0cruz/Fernand0cruz/blob/main/1.jpeg" />
@@ -21,13 +10,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
+      width="500"
       src="https://github-readme-stats.vercel.app/api?username=Fernand0cruz&show_icons=true&theme=default"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
+        width="500"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernand0cruz&layout=compact"
     />
   </a>
@@ -36,15 +26,9 @@
 
 ## Skills :nerd_face:
 <p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
