@@ -1,14 +1,21 @@
-# Oi Tudo bem? Eu sou  [_Fernando Cruz_](https://www.linkedin.com/in/fernando-cruz-2509/)😃️
-## ⭐ Informações sobre minha conta GitHub
-![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernand0cruz)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8257E5,100:000000&height=210&section=header&text=Luiz%20Fernando&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Fron-End%20React&descAlignY=50">
 
-## 🚀 Minhas Skills
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fernand0cruz&show_icons=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernand0cruz&layout=compact"/>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Logo" height="50" width="60" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg">
+  <img align="center" alt="Logo" height="50" width="60" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg">
+  <img align="center" alt="Logo" height="50" width="60" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg">
+  <img align="center" alt="Logo" height="50" width="60" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg">
+  <img align="center" alt="Logo" height="50" width="60" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tailwindcss.svg">
+  <img align="center" alt="Logo" height="50" width="60" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudio.svg">
+  <img align="center" alt="Logo" height="50" width="60" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nodedotjs.svg">
+  <img align="center" alt="Logo" height="50" width="60" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg">
+  <img align="center" alt="Logo" height="50" width="60" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mongodb.svg">
+  <img align="center" alt="Logo" height="50" width="60" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mysql.svg">
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
+  <img align="right" alt="Kakashi Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/Z6Gqy-qS-EQAAAAM/kakashi-naruto.gif">
+</div>
